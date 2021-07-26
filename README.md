@@ -1,1 +1,1 @@
-# AndroidProject5550
+Hotel Reservation App Project submission by Himanshu Soni, A00446780.
